@@ -1,5 +1,5 @@
 ---
-title: 自学必读
+title: 学习计划
 icon: creative
 navbar: true
 sidebar: true
@@ -10,5 +10,4 @@ contributors: false
 pageInfo: false
 ---
 
-
-自学必读的这是
+学习计划

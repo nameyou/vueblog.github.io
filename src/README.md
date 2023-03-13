@@ -3,11 +3,11 @@ home: true
 icon: home
 title: JAVA自学平台
 heroImage: null
-heroText: 项目名称
+heroText: heroText
 tagline: null
 actions:
   - text: 开始学习
-    link: /javadocs/javase/javase01
+    link: /javadocs/javase/Java基础知识.md
     type: primary
 
   - text: 自学必读 💡

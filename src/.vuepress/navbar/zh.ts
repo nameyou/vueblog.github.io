@@ -12,7 +12,7 @@ export const zhNavbar = navbar([
         icon: "creative",
         // prefix: "bar/",
         // children: ["baz", { text: "...", icon: "more", link: "" }],
-        link: "javase/javase01"
+        link: "javase/Java基础知识.md"
       },
       {
         text: "JavaWeb",
